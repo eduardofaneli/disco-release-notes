@@ -1,0 +1,59 @@
+{
+  "templates": {
+    "release-notes": {
+      "name": "Release Notes Completo",
+      "description": "Template completo para release notes com seções para novas funcionalidades, correções, estatísticas e próximos passos",
+      "file": "release-notes-example.md",
+      "discord_file": "release-notes-example.json",
+      "sections": [
+        "Introdução",
+        "Novas Funcionalidades", 
+        "Correções de Bugs",
+        "Estatísticas",
+        "Próximos Passos",
+        "Feedback e Suporte"
+      ],
+      "colors": {
+        "features": 5814783,
+        "bugfixes": 15158332,
+        "stats": 3447003,
+        "roadmap": 10181046,
+        "support": 5763719
+      },
+      "emojis": {
+        "features": "✨",
+        "bugfixes": "🐛", 
+        "stats": "📊",
+        "roadmap": "🔮",
+        "support": "💬"
+      }
+    },
+    "simple-release": {
+      "name": "Release Notes Simples",
+      "description": "Template básico para releases menores",
+      "sections": [
+        "Novidades",
+        "Correções"
+      ]
+    },
+    "hotfix": {
+      "name": "Hotfix",
+      "description": "Template para correções urgentes",
+      "sections": [
+        "Problema Crítico",
+        "Solução Aplicada"
+      ]
+    }
+  },
+  "default_colors": {
+    "primary": 5814783,
+    "success": 5763719,
+    "warning": 16705372,
+    "error": 15158332,
+    "info": 3447003
+  },
+  "example_content": {
+    "markdown_input": "templates/release-notes-example.md",
+    "discord_output": "templates/release-notes-example.json"
+  }
+}

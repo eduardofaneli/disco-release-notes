@@ -1,0 +1,23 @@
+{
+  "npm.packageManager": "pnpm",
+  "typescript.preferences.useAliasesForRenames": false,
+  "typescript.suggest.autoImports": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.workingDirectories": ["./"],
+  "terminal.integrated.env.windows": {
+    "FORCE_COLOR": "1"
+  },
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "files.associations": {
+    "*.md": "markdown",
+    ".npmrc": "properties",
+    "pnpm-workspace.yaml": "yaml"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "typescript.preferences.importModuleSpecifier": "relative"
+}

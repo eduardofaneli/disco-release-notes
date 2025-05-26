@@ -1,0 +1,85 @@
+{
+  "content": "🚀 **Release Notes v2.1.0** 🚀\n\nOlá pessoal! Temos novidades incríveis para vocês nesta atualização. Esta versão traz melhorias significativas, correções de bugs e algumas funcionalidades muito pedidas pela comunidade.\n\nVamos dar uma olhada no que há de novo? 👇\n_ _",
+  "embeds": [
+    {
+      "title": "✨ Novas Funcionalidades",
+      "description": "Esta atualização inclui várias funcionalidades novas que irão melhorar significativamente a experiência do usuário. Cada uma foi cuidadosamente desenvolvida baseada no feedback da comunidade.",
+      "color": 5814783,
+      "fields": [
+        {
+          "name": "🎨 Interface Redesenhada",
+          "value": "Completamente reformulamos a interface principal com um design mais moderno e intuitivo. A navegação agora é mais fluida e responsiva em todos os dispositivos."
+        },
+        {
+          "name": "⚡ Performance Melhorada",
+          "value": "Otimizamos o código base resultando em 40% de melhoria na velocidade de carregamento e redução de 60% no uso de memória."
+        },
+        {
+          "name": "🔧 Configurações Avançadas",
+          "value": "Adicionamos um painel de configurações avançadas que permite personalizar quase todos os aspectos da aplicação conforme suas necessidades."
+        }
+      ]
+    },
+    {
+      "title": "🐛 Correções de Bugs",
+      "description": "Corrigimos vários problemas reportados pela comunidade. Agradecemos a todos que nos ajudaram identificando estes issues!",
+      "color": 15158332,
+      "fields": [
+        {
+          "name": "🔍 Problemas Resolvidos",
+          "value": "• Corrigido erro de sincronização em tempo real\n• Resolvido problema de logout automático\n• Corrigido bug de formatação em mensagens longas\n• Resolvido crash ao fazer upload de arquivos grandes"
+        },
+        {
+          "name": "🛡️ Melhorias de Segurança",
+          "value": "• Implementada autenticação de dois fatores\n• Melhorada validação de entrada de dados\n• Atualizada criptografia de senhas\n• Corrigidas vulnerabilidades de segurança menores"
+        }
+      ]
+    },
+    {
+      "title": "📊 Estatísticas da Versão",
+      "description": "Alguns números interessantes sobre esta atualização:",
+      "color": 3447003,
+      "fields": [
+        {
+          "name": "👨‍💻 Desenvolvimento",
+          "value": "• **42** commits realizados\n• **15** pull requests mergeados\n• **8** desenvolvedores contribuíram\n• **120** horas de desenvolvimento"
+        },
+        {
+          "name": "🧪 Testes",
+          "value": "• **98%** de cobertura de testes\n• **500+** testes automatizados\n• **0** bugs críticos encontrados\n• **2** semanas de testes beta"
+        }
+      ]
+    },
+    {
+      "title": "🔮 Próximos Passos",
+      "description": "O que estamos planejando para as próximas versões:",
+      "color": 10181046,
+      "fields": [
+        {
+          "name": "v2.2.0 - Em Desenvolvimento",
+          "value": "• Sistema de notificações push\n• Integração com APIs externas\n• Modo escuro personalalizável\n• Sincronização multi-dispositivo"
+        },
+        {
+          "name": "v2.3.0 - Planejado",
+          "value": "• Sistema de plugins\n• Editor de temas avançado\n• Relatórios e analytics\n• Backup automático na nuvem"
+        }
+      ]
+    },
+    {
+      "title": "💬 Feedback e Suporte",
+      "description": "Sua opinião é muito importante para nós! Entre em contato através dos canais abaixo:",
+      "color": 5763719,
+      "fields": [
+        {
+          "name": "🆘 Precisa de Ajuda?",
+          "value": "• **Discord**: [Servidor de Suporte](https://discord.gg/exemplo)\n• **Email**: suporte@exemplo.com\n• **Documentação**: [docs.exemplo.com](https://docs.exemplo.com)"
+        },
+        {
+          "name": "🎯 Reportar Bugs",
+          "value": "• **GitHub Issues**: [github.com/exemplo/issues](https://github.com/exemplo/issues)\n• **Bug Report**: Use o comando `/report` no Discord\n• **Email**: bugs@exemplo.com"
+        }
+      ]
+    }
+  ],
+  "attachments": []
+}
