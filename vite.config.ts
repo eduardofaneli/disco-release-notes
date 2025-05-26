@@ -5,7 +5,7 @@ import path from 'path'
 export default defineConfig({
   plugins: [react()],
   // Base configurável para GitHub Pages
-  base: process.env.GITHUB_PAGES === 'true' ? '/disco-release-notes/' : '/',
+  base: process.env.GITHUB_PAGES === 'true' || process.env.BASE_URL ? '/disco-release-notes/' : '/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src')

@@ -35,8 +35,11 @@ jobs:
       - name: Check types
         run: pnpm type-check
         
+      - name: Install cross-env
+        run: pnpm add -D cross-env
+        
       - name: Build
-        run: pnpm run build:github
+        run: pnpm run build:gh-pages
         
       - name: Setup Pages
         uses: actions/configure-pages@v4
